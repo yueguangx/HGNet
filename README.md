@@ -1,5 +1,5 @@
 # HGNet
-This project is based on the paper "HGNet: High-Order Spatial Awareness Hypergraph and Multi-Scale Context Attention Network for Colorectal Polyp Detection". It implements and optimizes the proposed HGNet model for colorectal polyp detection, leveraging high-order spatial awareness and multi-scale context attention mechanisms. The goal is to improve detection accuracy and efficiency in medical image analysis.
+This project is based on the paper "HGNet: High-Order Spatial Awareness Hypergraph and Multi-Scale Context Attention Network for Colorectal Polyp Detection." It implements and optimizes the proposed HGNet model, which enhances YOLOv11 by integrating high-order spatial awareness and multi-scale context attention mechanisms. The goal is to improve detection accuracy and efficiency in medical image analysis.
 
 # Installation
 Follow these steps to set up and run the HGNet project on your local machine:
